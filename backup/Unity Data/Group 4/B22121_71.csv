@@ -1,0 +1,45 @@
+Time,Score,Penalty,ID,RollNumber,Group,EventType,EventDescription,EventPosition(X Y Z),EventRotation(X Y Z),EarthquakeMagnitude,PlayerSeated
+1742554522977,0, 0,71,B22121,Group 4,,,,,,
+1742554313171,,,,,,TrainingStarted,Training Started,0 0 0,0 0 0,0,False
+1742554413502,,,,,,EntryUnderTable,Player entered the sitting zone.,5.227 0.683 2.29,0 270.0002 0,0,False
+1742554415300,,,,,,ExitUnderTable,Player exited the sitting zone.,5.227 0.683 2.29,0 270.0002 0,0,False
+1742554429502,,,,,,ItemPicked,Item PencilRed Picked.,7.268523 0.6888226 -3.861559,328.7397 110.1155 270.0191,0,False
+1742554433054,,,,,,ItemDropped,Item PencilRed Dropped.,7.805565 0.7782364 -3.827673,329.8607 76.33912 280.7679,0,False
+1742554434838,,,,,,ItemPicked,Item PencilLightBlue Picked.,7.276263 0.6886386 -3.874254,86.83659 111.8454 270.9707,0,False
+1742554436335,,,,,,ItemDropped,Item PencilLightBlue Dropped.,7.395086 0.616106 -3.340471,85.76797 103.3023 227.3232,0,False
+1742554438591,,,,,,ItemPicked,Item Cup Picked.,7.182838 0.6903859 -3.919703,278.249 112.1341 267.3449,0,False
+1742554439678,,,,,,ItemDropped,Item Cup Dropped.,7.32517 0.5912274 -3.41535,278.1686 16.93869 39.24532,0,False
+1742554446908,,,,,,ItemPicked,Item PencilLightGreen Picked.,7.090073 0.6888729 -3.840405,88.08368 56.73716 270.2509,0,False
+1742554448041,,,,,,ItemDropped,Item PencilLightGreen Dropped.,6.82126 0.779505 -3.897491,81.55889 15.18669 222.4104,0,False
+1742554449751,,,,,,ItemPicked,Item PencilViolett Picked.,7.084553 0.6888654 -3.972029,330.1053 292.7441 270.0365,0,False
+1742554450573,,,,,,ItemDropped,Item PencilViolett Dropped.,6.928807 0.8111064 -3.935614,342.1311 299.9503 266.6909,0,False
+1742554455304,,,,,,ItemPicked,Item PencilLightGreen Picked.,6.825636 0.6888215 -3.944081,31.48934 56.9567 270.0346,0,False
+1742554456526,,,,,,ItemDropped,Item PencilLightGreen Dropped.,7.052346 0.76381 -3.923571,25.01658 47.08192 281.9036,0,False
+1742554460324,,,,,,ItemPicked,Item PencilLightGreen Picked.,7.069991 0.6888431 -3.916759,28.15453 38.43157 269.97,0,False
+1742554465332,,,,,,ItemObserved,Observed PencilLightGreen,6.911968 0.9277999 -3.625316,31.96704 73.77166 325.2661,0,False
+1742554468431,,,,,,ItemDropped,Item PencilLightGreen Dropped.,6.797178 0.806811 -3.865633,28.72618 66.11477 286.7503,0,False
+1742554470063,,,,,,ItemPicked,Item PencilBlue Picked.,7.172608 0.6931956 -3.859616,32.77735 292.2115 93.94962,0,False
+1742554475071,,,,,,ItemObserved,Observed PencilBlue,7.071001 0.9452029 -3.583177,88.23464 240.0444 9.142636,0,False
+1742554475960,,,,,,ItemDropped,Item PencilBlue Dropped.,6.772729 0.8111286 -3.809894,54.72517 333.0768 90.23069,0,False
+1742554477637,,,,,,ItemPicked,Item PencilGrey Picked.,7.314629 0.6888034 -3.973323,28.22387 356.4952 89.97814,0,False
+1742554482646,,,,,,ItemObserved,Observed PencilGrey,6.980952 0.8340084 -3.836396,49.45579 14.95739 79.3487,0,False
+1742554482813,,,,,,ItemDropped,Item PencilGrey Dropped.,6.833143 0.8127251 -3.80785,43.27216 15.40523 77.41321,0,False
+1742554486577,,,,,,ItemPicked,Item spiral notebook Picked.,8.176328 0.698102 -4.093281,359.9814 348.0231 359.9699,0,False
+1742554491586,,,,,,ItemObserved,Observed spiral notebook,7.964019 0.999316 -3.832517,8.824221 355.1518 26.21657,0,False
+1742554492842,,,,,,ItemDropped,Item spiral notebook Dropped.,8.203598 0.7676718 -4.112001,356.6483 358.3803 7.823303,0,False
+1742554496862,,,,,,ItemPicked,Item monitor Picked.,9.711729 0.6856453 -4.12104,270.0343 75.01344 0,0,False
+1742554499826,,,,,,EntryUnderTable,Player entered the sitting zone.,8.276866 -0.02865952 -3.903536,352.7493 1.053391 356.6279,0,False
+1742554499848,,,,,,ExitUnderTable,Player exited the sitting zone.,8.295863 -0.03020108 -3.891792,351.6684 0.4702355 358.345,0,False
+1742554499860,,,,,,EntryUnderTable,Player entered the sitting zone.,8.282747 -0.028081 -3.887858,351.3549 0.1060789 357.3774,0,False
+1742554500048,,,,,,ExitUnderTable,Player exited the sitting zone.,8.292952 -0.0438714 -3.865354,349.2511 354.8697 0.6516147,0,False
+1742554500070,,,,,,EntryUnderTable,Player entered the sitting zone.,8.264452 -0.04415172 -3.879094,350.2267 355.1459 358.2195,0,False
+1742554500081,,,,,,ExitUnderTable,Player exited the sitting zone.,8.288582 -0.04436475 -3.863393,349.1 354.3356 0.6259829,0,False
+1742554500104,,,,,,EntryUnderTable,Player entered the sitting zone.,8.260448 -0.04459846 -3.877179,350.0931 354.7531 358.1531,0,False
+1742554500127,,,,,,ExitUnderTable,Player exited the sitting zone.,8.287283 -0.04375327 -3.856289,348.5696 353.8556 0.8445905,0,False
+1742554500148,,,,,,EntryUnderTable,Player entered the sitting zone.,8.260685 -0.04462981 -3.877327,350.1577 354.3822 358.3882,0,False
+1742554500170,,,,,,ExitUnderTable,Player exited the sitting zone.,8.279758 -0.04284531 -3.861719,348.9846 353.3305 0.4742696,0,False
+1742554501870,,,,,,ItemObserved,Observed monitor,8.555686 1.257047 -4.132088,274.0745 10.67178 103.9187,0,False
+1742554503842,,,,,,ItemDropped,Item monitor Dropped.,8.466907 0.7292815 -4.20256,275.5267 278.1817 208.5799,0,False
+1742554507102,,,,,,ItemPicked,Item monitor Picked.,8.602218 0.1067856 -4.246889,331.5983 144.4797 322.0657,0,False
+1742554510111,,,,,,ItemDropped,Item monitor Dropped.,9.580418 0.6144456 -4.04423,274.1718 102.7143 331.146,0,False
+1742554522656,,,,,,TrainingEnded,Training Ended,0 0 0,0 0 0,0,False

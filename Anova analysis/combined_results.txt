@@ -1,41 +1,87 @@
 STATISTICAL ANALYSIS RESULTS
-Files processed: 15
+Files processed: 19
 
+
+
+==================================================
+ANALYSIS FOR: alpha_bi_beta.pdf
+==================================================
+
+Here are the findings from the ANOVA analysis:
+
+**Alpha_bi_beta**
+
+The analysis revealed a significant main effect of Time (F(1, 70) = 4.225, p = 0.044, ηp² = 0.057). Alpha_bi_beta was significantly lower at pre (M = 0.080, SE = 0.009) compared to during (M = 0.116, SE = 0.016).
+
+The type of task had no significant main effect on Alpha_bi_beta (F(1, 70) = 0.473, p = 0.494, ηp² = 0.007). Information given had no significant main effect on Alpha_bi_beta (F(1, 70) = 0.211, p = 0.647, ηp² = 0.003). There was no significant interaction between Task and Information (F(1, 70) = 0.153, p = 0.697, ηp² = 0.002).
+
+There was a significant interaction between Time and Task (F(1, 70) = 4.058, p = 0.048, ηp² = 0.055). Before (Time 1), Alpha_bi_beta was similar for the No task (M = 0.091, SE = 0.013) and task (M = 0.068, SE = 0.012) groups. During (Time 2), Alpha_bi_beta slightly increased for the No task group (M = 0.092, SE = 0.024) but substantially increased for the task group (M = 0.140, SE = 0.022).
+
+The interaction between Time and Information was not significant (F(1, 70) = 0.339, p = 0.562, ηp² = 0.005). The three-way interaction between Time, Task, and Information was not significant (F(1, 70) = 0.194, p = 0.661, ηp² = 0.003).
 
 
 ==================================================
 ANALYSIS FOR: average_duration_in_table_cover.pdf
 ==================================================
 
-**Average Duration in Table Cover**
+**Average Duration In Table Cover**
 
-The results of the between-subjects ANOVA revealed a significant main effect of Task on average duration in table cover (F(1, 76) = 4.15, p = 0.045, ηp² = 0.052). Participants in the No Task condition (M = 9.62, SE = 2.00) spent significantly longer in table cover compared to those in the Book Task condition (M = 3.87, SE = 2.00). The main effect of Information was not statistically significant (F(1, 76) = 1.47, p = 0.229, ηp² = 0.019). There was no significant interaction between Information and Task (F(1, 76) = 0.13, p = 0.724, ηp² = 0.002).
+The univariate analysis of variance revealed no significant main effect of Information (F(1, 76) = 1.47, p = 0.229, ηp² = 0.019). There was a significant main effect of Task (F(1, 76) = 4.15, p = 0.045, ηp² = 0.052), with participants in the No Task condition (M = 9.62, SE = 2.00) spending significantly more time under table cover compared to those in the Book Task condition (M = 3.87, SE = 2.00). There was no significant interaction between Information and Task (F(1, 76) = 0.13, p = 0.724, ηp² = 0.002).
 
 
 ==================================================
 ANALYSIS FOR: average_seated_duration.pdf
 ==================================================
 
-**Average Seated Duration**
+Okay, here is the text summary of the ANOVA results for AverageSeatedDuration, based on the provided SPSS output.
 
-The Levene's Test of Equality of Error Variances was significant (F(3, 76) = 3.258, p = 0.026), indicating that the assumption of homogeneity of variances was violated. However, given the equal sample sizes across groups, we proceed with the interpretation of the ANOVA results.
+**AverageSeatedDuration**
+The analysis revealed a significant main effect of Information (F(1, 76) = 7.66, p = 0.007, ηp² = 0.092) with AverageSeatedDuration significantly higher when information was given (M = 6.56, SE = 0.79) than when it was not given (M = 3.49, SE = 0.79). A significant main effect was also found for Task (F(1, 76) = 20.51, p < 0.001, ηp² = 0.213), with participants in the No Task condition (M = 7.54, SE = 0.79) showing higher AverageSeatedDuration than those in the Book Task condition (M = 2.51, SE = 0.79). There was no significant interaction between Information and Task (F(1, 76) = 0.03, p = 0.863, ηp² = 0.000).
 
-The result revealed a significant main effect of Information (F(1, 76) = 7.657, p = 0.007, ηp² = 0.092) with average seated duration significantly higher when information was given (M = 6.56, SE = 0.79) than when it was not given (M = 3.49, SE = 0.79).
 
-There was also a significant main effect of Task (F(1, 76) = 20.509, p < 0.001, ηp² = 0.213) with participants in the No Task condition (M = 7.54, SE = 0.79) showing a significantly higher average seated duration than those in the Book Task condition (M = 2.51, SE = 0.79).
+==================================================
+ANALYSIS FOR: beta_bi_alpha.pdf
+==================================================
 
-There was no significant interaction between information and task (F(1, 76) = 0.030, p = 0.863, ηp² = 0.000).
+The result revealed no significant main effect of Time on beta-bi-alpha (F(1, 70) = 0.60, p = 0.440, ηp² = 0.009). The type of Task also had no significant main effect (F(1, 70) = 2.21, p = 0.142, ηp² = 0.031), and whether Information was given was not significant (F(1, 70) = 0.81, p = 0.372, ηp² = 0.011).
+
+There was a significant interaction between Time and Task (F(1, 70) = 5.72, p = 0.020, ηp² = 0.075). Beta-bi-alpha levels decreased slightly from pre-earthquake (M = 15.89, SE = 2.19) to during-earthquake (M = 11.91, SE = 2.77) in the No Task condition, while they increased substantially from pre-earthquake (M = 13.48, SE = 2.02) to during-earthquake (M = 21.28, SE = 2.55) in the Task condition.
+
+The interaction between Time and Information was not significant (F(1, 70) = 3.75, p = 0.057, ηp² = 0.051). The interaction between Task and Information was also not significant (F(1, 70) = 0.56, p = 0.458, ηp² = 0.008). Finally, the three-way interaction between Time, Task, and Information was not significant (F(1, 70) = 0.55, p = 0.460, ηp² = 0.008).
+
+
+==================================================
+ANALYSIS FOR: beta_bi_theta.pdf
+==================================================
+
+Okay, here are the findings from the provided SPSS ANOVA output for the Beta/Bi-theta Ratio, presented in the requested text format.
+
+**Beta/Bi-theta Ratio**
+
+The analysis revealed no significant main effect of Time on the beta/bi-theta ratio (F(1, 70) = 0.00, p = 0.989, ηp² = 0.000).
+
+A significant main effect of Task was found (F(1, 70) = 4.61, p = 0.035, ηp² = 0.062), with participants in the Task condition (M = 8.49, SE = 0.76) showing a higher overall beta/bi-theta ratio than those in the No Task condition (M = 6.09, SE = 0.82).
+
+The main effect of Information was not statistically significant (F(1, 70) = 1.04, p = 0.311, ηp² = 0.015).
+
+There was a significant interaction between Time and Task (F(1, 70) = 7.28, p = 0.009, ηp² = 0.094). The pattern of means suggests that the beta/bi-theta ratio decreased from Time 1 (M = 7.52, SE = 1.11) to Time 2 (M = 4.67, SE = 1.15) in the No Task group, while it increased from Time 1 (M = 7.08, SE = 1.02) to Time 2 (M = 9.90, SE = 1.06) in the Task group.
+
+The interaction between Time and Information was not significant (F(1, 70) = 3.26, p = 0.075, ηp² = 0.045).
+
+The interaction between Task and Information was not significant (F(1, 70) = 0.14, p = 0.715, ηp² = 0.002).
+
+Finally, the three-way interaction between Time, Task, and Information was not significant (F(1, 70) = 0.47, p = 0.496, ηp² = 0.007).
 
 
 ==================================================
 ANALYSIS FOR: books_placed_across_time.pdf
 ==================================================
 
-Here is the interpretation of the ANOVA results for "Books Placed":
+Okay, here is the report based on the provided SPSS ANOVA output for the number of books placed.
 
-Upon analysis, Mauchly's test indicated that the assumption of sphericity had been violated for the main effect of Time (χ²(2) = 16.975, p < 0.001), and consequently for interactions involving Time. Therefore, degrees of freedom were corrected using Greenhouse-Geisser estimates of sphericity (ε = 0.835) for the within-subjects effects.
+**Number of Books Placed**
 
-There was a significant main effect of Time on the number of books placed (F(1.67, 130.23) = 13.30, p < 0.001, ηp² = 0.146). Post-hoc comparisons using the Bonferroni correction revealed that significantly fewer books were placed during the earthquake (M = 0.98, SE = 0.17) compared to before (M = 1.50, SE = 0.23; p = 0.006) and after (M = 2.11, SE = 0.30; p < 0.001). Significantly more books were placed after the earthquake compared to before the earthquake (p = 0.045). The type of Information given had no significant main effect on the number of books placed (F(1, 78) = 0.15, p = 0.697, ηp² = 0.002). There was no significant interaction between Time and Information (F(1.67, 130.23) = 2.72, p = 0.079, ηp² = 0.034).
+Upon analysis Mauchly's test indicated that the assumption of sphericity had been violated for the main effect of Time (χ²(2) = 16.975, p < 0.001), and consequently for interactions involving Time. Therefore, degrees of freedom were corrected using Greenhouse-Geisser estimates of sphericity (ε = 0.835) for the within-subjects effects. There was a significant main effect of time on the number of books placed (F(1.67, 130.23) = 13.30, p < 0.001, ηp² = 0.146). Post-hoc comparisons using the Bonferroni correction revealed that the number of books placed was significantly lower During the earthquake (M = 0.98, SE = 0.17) compared to Before (M = 1.50, SE = 0.23; p = 0.006) and After (M = 2.11, SE = 0.30; p < 0.001). The number of books placed Before the earthquake was also significantly lower than After the earthquake (p = 0.045). The main effect of Information was not statistically significant (F(1, 78) = 0.15, p = 0.697, ηp² = 0.002). The interaction between Time and Information was not significant (F(1.67, 130.23) = 2.72, p = 0.079, ηp² = 0.034).
 
 
 ==================================================
@@ -44,136 +90,142 @@ ANALYSIS FOR: cover_attempts.pdf
 
 **Cover Attempts**
 
-The analysis revealed no significant main effect of Information on cover attempts (F(1, 76) = 3.41, p = 0.069, ηp² = 0.04). The type of task had no significant main effect on cover attempts (F(1, 76) = 0.17, p = 0.683, ηp² = 0.00).
-
-However, there was a significant interaction between Information and Task (F(1, 76) = 4.21, p = 0.044, ηp² = 0.05) (Fig. 1). When information was given, cover attempts were higher for participants in the Book Task group (M = 1.35, SE = 0.24) than those in the No Task group (M = 0.95, SE = 0.24). Conversely, when information was not given, cover attempts were lower for participants in the Book Task group (M = 0.40, SE = 0.24) compared to those in the No Task group (M = 1.00, SE = 0.24).
+The result revealed no significant main effect of Information on cover attempts (F(1, 76) = 3.41, p = 0.069, ηp² = 0.04). The type of task also had no significant main effect on cover attempts (F(1, 76) = 0.17, p = 0.683, ηp² = 0.00). However, there was a significant interaction between Information and Task (F(1, 76) = 4.21, p = 0.044, ηp² = 0.05). When participants were in the Book Task condition, cover attempts were higher when information was given (M = 1.35, SE = 0.24) compared to when it was not given (M = 0.40, SE = 0.24). In contrast, when participants were in the No Task condition, cover attempts were similar whether information was given (M = 0.95, SE = 0.24) or not given (M = 1.00, SE = 0.24).
 
 
 ==================================================
 ANALYSIS FOR: items_observed_across_time.pdf
 ==================================================
 
-**Items Observed**
-
-Upon analysis Mauchly's test indicated that the assumption of sphericity had been violated for the main effect of Time (χ²(2) = 41.49, p < 0.001), and consequently for interactions involving Time. Therefore, degrees of freedom were corrected using Greenhouse-Geisser estimates of sphericity (ε = 0.706) for the within-subjects effects.
-
-There was a significant main effect of time on the number of items observed (F(1.41, 110.12) = 16.99, p < 0.001, ηp² = 0.179). Post-hoc comparisons using the Bonferroni correction revealed that items observed were significantly lower during the earthquake (M = 0.49, SE = 0.13) compared to before (M = 1.20, SE = 0.21; p < 0.001) and after (M = 1.78, SE = 0.33; p < 0.001). Items observed before the earthquake were also significantly lower than after the earthquake (p = 0.011).
-
-The main effect of Information was not statistically significant (F(1, 78) = 0.15, p = 0.698, ηp² = 0.002).
-
-The interaction between Time and Information was not significant (F(1.41, 110.12) = 1.32, p = 0.266, ηp² = 0.017).
+Upon analysis, Mauchly's test indicated that the assumption of sphericity had been violated for the main effect of Time (χ²(2) = 41.493, p < 0.001). Therefore, degrees of freedom were corrected using Greenhouse-Geisser estimates of sphericity (ε = 0.706) for the within-subjects effects. There was a significant main effect of time on the number of items observed (F(1.41, 110.12) = 16.99, p < 0.001, ηp² = 0.179). Post-hoc comparisons using the Bonferroni correction revealed that items observed were significantly lower During the earthquake (M = 0.49, SE = 0.13) compared to Before (M = 1.20, SE = 0.21; p < 0.001) and After (M = 1.78, SE = 0.33; p = 0.011). Items observed Before the earthquake were also significantly lower than after the earthquake (p < 0.001). The main effect of information given was not statistically significant (F(1, 78) = 0.15, p = 0.698, ηp² = 0.002). The interaction between Time and Information was not significant (F(1.41, 110.12) = 1.32, p = 0.266, ηp² = 0.017).
 
 
 ==================================================
 ANALYSIS FOR: Items_picked_Task_Information.pdf
 ==================================================
 
-Upon analysis Mauchly's test indicated that the assumption of sphericity had been violated for the main effect of Time (χ²(2) = 33.66, p < 0.001), and consequently for interactions involving Time. Therefore, degrees of freedom were corrected using Greenhouse-Geisser estimates of sphericity (ε = 0.734) for the within-subjects effects. There was a significant main effect of time on the number of items picked (F(1.47, 111.63) = 35.83, p < 0.001, ηp² = 0.320). Post hoc comparisons revealed that items picked were significantly lower During the earthquake (M = 2.60, SE = 0.30) compared to Before (M = 4.44, SE = 0.30; p < 0.001) and After (M = 7.05, SE = 0.63; p < 0.001). Items picked Before the earthquake were also significantly lower than After the earthquake (p < 0.001). The main effect of Task was not statistically significant (F(1, 76) = 0.11, p = 0.742, ηp² = 0.001). The main effect of information given was also not significant (F(1, 76) = 1.04, p = 0.312, ηp² = 0.013). No significant interaction was found between Time and Task (F(1.47, 111.63) = 3.33, p = 0.054, ηp² = 0.042). The interaction between Time and Information was not significant (F(1.47, 111.63) = 0.50, p = 0.552, ηp² = 0.007). The interaction between Task and Information was not significant (F(1, 76) = 0.08, p = 0.782, ηp² = 0.001). Finally, the three-way interaction between Time, Task, and Information was not significant (F(1.47, 111.63) = 0.57, p = 0.514, ηp² = 0.007).
+Upon analysis Mauchly's test indicated that the assumption of sphericity had been violated for the main effect of Time (χ²(2) = 33.662, p < 0.001), and consequently for interactions involving Time. Therefore, degrees of freedom were corrected using Greenhouse-Geisser estimates of sphericity (ε = 0.734) for the within-subjects effects.
+
+There was a significant main effect of time on the number of items picked (F(1.47, 111.63) = 35.83, p < 0.001, ηp² = 0.320). Post hoc comparisons using the Bonferroni correction revealed that items picked were significantly lower During the earthquake (M = 2.60, SE = 0.30) compared to Before (M = 4.44, SE = 0.30; p < 0.001). Items picked After the earthquake (M = 7.05, SE = 0.63) were significantly higher than both Before (p < 0.001) and During the earthquake (p < 0.001).
+
+No significant interaction was found between Time and Task (F(1.47, 111.63) = 3.33, p = 0.054, ηp² = 0.042). The interaction between Time and Information was not significant (F(1.47, 111.63) = 0.50, p = 0.552, ηp² = 0.007). Finally, the three-way interaction between Time, Task, and Information was not significant (F(1.47, 111.63) = 0.57, p = 0.514, ηp² = 0.007).
+
+Regarding the between-subjects effects, the main effect of Task was not statistically significant (F(1, 76) = 0.11, p = 0.742, ηp² = 0.001). The main effect of Information given was also not significant (F(1, 76) = 1.04, p = 0.312, ηp² = 0.013). The interaction between Task and Information was not significant (F(1, 76) = 0.08, p = 0.782, ηp² = 0.001).
 
 
 ==================================================
 ANALYSIS FOR: sitting_transitions.pdf
 ==================================================
 
-A univariate analysis of variance was conducted for Sitting Transitions. The result revealed that the main effect of Information was not statistically significant (F(1, 76) = 2.415, p = 0.124, ηp² = 0.031). The main effect of Task was also not statistically significant (F(1, 76) = 2.068, p = 0.155, ηp² = 0.026). However, there was a significant interaction between Information and Task (F(1, 76) = 4.261, p = 0.042, ηp² = 0.053). The pattern of means suggests that the effect of information on sitting transitions differed depending on the task condition. For participants in the Book Task condition, Sitting Transitions were higher when Information was Given (M = 10.55, SE = 2.16) compared to when it was Not Given (M = 2.75, SE = 2.16). In contrast, for participants in the No Task condition, Sitting Transitions were similar when Information was Given (M = 9.20, SE = 2.16) and when it was Not Given (M = 10.30, SE = 2.16).
+Okay, I have analyzed the SPSS output for the Univariate Analysis of Variance on Sitting Transitions.
+
+Here are the findings in text format:
+
+**Sitting Transitions**
+The result revealed no significant main effect of Information (F(1, 76) = 2.42, p = 0.124, ηp² = 0.031). The type of task had no significant effect on sitting transitions (F(1, 76) = 2.07, p = 0.155, ηp² = 0.026). However, there was a significant interaction between Information and Task (F(1, 76) = 4.26, p = 0.042, ηp² = 0.053). When information was given, participants in the Book Task condition showed numerically higher sitting transitions (M = 10.55, SE = 2.16) compared to those in the No Task condition (M = 9.20, SE = 2.16). When information was not given, participants in the Book Task condition showed substantially lower sitting transitions (M = 2.75, SE = 2.16) compared to those in the No Task condition (M = 10.30, SE = 2.16).
+
+
+==================================================
+ANALYSIS FOR: theta_bi_beta.pdf
+==================================================
+
+Here are the findings from the ANOVA analysis for the measure theta\_bi\_beta:
+
+The analysis revealed no significant main effect of Time (F(1, 70) = 2.032, p = 0.158, ηp² = 0.028). The type of Task had no significant main effect on theta\_bi\_beta (F(1, 70) = 1.438, p = 0.235, ηp² = 0.020). Information given had no significant main effect on theta\_bi\_beta (F(1, 70) = 1.876, p = 0.175, ηp² = 0.026). There were no significant interactions between Time and Task (F(1, 70) = 1.160, p = 0.285, ηp² = 0.016), Time and Information (F(1, 70) = 2.265, p = 0.137, ηp² = 0.031), or Task and Information (F(1, 70) = 0.028, p = 0.868, ηp² = 0.000). Finally, the three-way interaction between Time, Task, and Information was not significant (F(1, 70) = 0.213, p = 0.646, ηp² = 0.003).
 
 
 ==================================================
 ANALYSIS FOR: time_near_corner_across_time.pdf
 ==================================================
 
-Upon analysis Mauchly's test indicated that the assumption of sphericity had been violated for the main effect of Time (χ²(2) = 182.565, p < 0.001), and consequently for interactions involving Time. Therefore, degrees of freedom were corrected using Greenhouse-Geisser estimates of sphericity (ε = 0.523) for the within-subjects effects. There was no significant main effect of time on time near corner (F(1.05, 79.48) = 2.64, p = 0.107, ηp² = 0.034). The type of task had no significant main effect on time near corner (F(1, 76) = 3.46, p = 0.067, ηp² = 0.044). The result revealed a significant main effect of Information (F(1, 76) = 4.13, p = 0.046, ηp² = 0.052) with time near corner significantly higher when information was given (M = 0.945, SE = 0.318) than when it was not given (M = 0.032, SE = 0.318). There was no significant interaction between Time and Task (F(1.05, 79.48) = 2.60, p = 0.109, ηp² = 0.033). There was no significant interaction between Time and Information (F(1.05, 79.48) = 2.25, p = 0.137, ηp² = 0.029). The interaction between Task and Information was not significant (F(1, 76) = 3.60, p = 0.062, ηp² = 0.045). Finally, the three-way interaction between Time, Task, and Information was not significant (F(1.05, 79.48) = 2.77, p = 0.098, ηp² = 0.035).
+Upon analysis Mauchly's test indicated that the assumption of sphericity had been violated for the main effect of Time (χ²(2) = 182.565, p < 0.001), and consequently for interactions involving Time. Therefore, degrees of freedom were corrected using Greenhouse-Geisser estimates of sphericity (ε = 0.523) for the within-subjects effects.
+
+There was no significant main effect of time on time spent near the corner (F(1.05, 79.48) = 2.64, p = 0.107, ηp² = 0.034). The type of task had no significant main effect on time spent near the corner (F(1, 76) = 3.46, p = 0.067, ηp² = 0.044). A significant main effect was found for information (F(1, 76) = 4.13, p = 0.046, ηp² = 0.052), with participants given information (M = 0.945, SE = 0.318) spending significantly more time near the corner than those not given information (M = 0.032, SE = 0.318).
+
+No significant interaction was found between Time and Task (F(1.05, 79.48) = 2.60, p = 0.109, ηp² = 0.033). The interaction between Time and Information was not significant (F(1.05, 79.48) = 2.25, p = 0.137, ηp² = 0.029). The interaction between Task and Information was not significant (F(1, 76) = 3.60, p = 0.062, ηp² = 0.045). Finally, the three-way interaction between Time, Task, and Information was not significant (F(1.05, 79.48) = 2.77, p = 0.098, ηp² = 0.035).
 
 
 ==================================================
 ANALYSIS FOR: time_near_wall_across_time.pdf
 ==================================================
 
-Here are the findings from the ANOVA analysis regarding Time Near Wall:
+Here are the findings from the ANOVA analysis:
 
-Upon analysis Mauchly's test indicated that the assumption of sphericity had been violated for the main effect of Time (χ²(2) = 8.982, p = 0.011), and consequently for interactions involving Time. Therefore, degrees of freedom were corrected using Greenhouse-Geisser estimates of sphericity (ε = 0.899) for the within-subjects effects. There was a significant main effect of time on Time Near Wall (F(1.80, 136.58) = 7.99, p = 0.001, ηp² = 0.095). Post-hoc comparisons using the Bonferroni correction revealed that Time Near Wall was significantly lower Before the earthquake (M = 4.16, SE = 0.90) compared to During (M = 10.71, SE = 1.71; p < 0.001) and After (M = 10.94, SE = 2.04; p = 0.007). The difference between During and After was not significant (p = 1.000). A significant main effect was found for Task (F(1, 76) = 5.64, p = 0.020, ηp² = 0.069), with participants in the No Task condition (M = 11.40, SE = 1.67) showing higher overall Time Near Wall than those in the Book Task condition (M = 5.80, SE = 1.67). There was also a significant main effect for Information (F(1, 76) = 4.61, p = 0.035, ηp² = 0.057), with participants given Information (M = 11.13, SE = 1.67) having a higher overall Time Near Wall than those not given Information (M = 6.07, SE = 1.67). There was no significant interaction between Time and Task (F(1.80, 136.58) = 1.29, p = 0.276, ηp² = 0.017). There was a significant interaction between Time and Information (F(1.80, 136.58) = 3.62, p = 0.034, ηp² = 0.046). Before the earthquake, Time Near Wall was similarly low for both the Given (M = 3.97, SE = 1.27) and Not Given (M = 4.34, SE = 1.27) information groups. During the earthquake, Time Near Wall increased substantially more for the Given group (M = 15.69, SE = 2.41) compared to the Not Given group (M = 5.73, SE = 2.41). After the earthquake, Time Near Wall decreased slightly for the Given group (M = 13.74, SE = 2.89) but increased for the Not Given group (M = 8.13, SE = 2.89), although it remained lower than the Given group during the earthquake. The interaction between Task and Information was not significant (F(1, 76) = 2.65, p = 0.107, ηp² = 0.034). Finally, the three-way interaction between Time, Task, and Information was not significant (F(1.80, 136.58) = 2.63, p = 0.082, ηp² = 0.033).
+Upon analysis Mauchly's test indicated that the assumption of sphericity had been violated for the main effect of Time (χ²(2) = 8.982, p = 0.011), and consequently for interactions involving Time. Therefore, degrees of freedom were corrected using Greenhouse-Geisser estimates of sphericity (ε = 0.899) for the within-subjects effects. There was a significant main effect of Time on Time Near Wall (F(1.80, 136.58) = 7.99, p = 0.001, ηp² = 0.095). Post-hoc comparisons revealed that Time Near Wall was significantly higher During the earthquake (M = 10.71, SE = 1.71) and After the earthquake (M = 10.94, SE = 2.04) compared to Before the earthquake (M = 4.16, SE = 0.90) (p < 0.001 and p = 0.007, respectively). The difference between During and After the earthquake was not significant (p = 1.000). A significant main effect was found for Task (F(1, 76) = 5.64, p = 0.020, ηp² = 0.069), with participants in the No Task condition (M = 11.40, SE = 1.67) showing higher Time Near Wall than those in the Book Task condition (M = 5.80, SE = 1.67). There was also a significant main effect for Information (F(1, 76) = 4.61, p = 0.035, ηp² = 0.057), with participants given Information (M = 11.13, SE = 1.67) having a higher Time Near Wall than those not given Information (M = 6.07, SE = 1.67). The interaction between Time and Task was not significant (F(1.80, 136.58) = 1.29, p = 0.276, ηp² = 0.017). There was a significant interaction between Time and Information (F(1.80, 136.58) = 3.62, p = 0.034, ηp² = 0.046). Before the earthquake, Time Near Wall was similar for the Given (M = 3.97, SE = 1.27) and Not Given (M = 4.34, SE = 1.27) information groups. During the earthquake, Time Near Wall increased substantially more for the Given group (M = 15.69, SE = 2.41) compared to the Not Given group (M = 5.73, SE = 2.41). After the earthquake, Time Near Wall remained high for the Given group (M = 13.74, SE = 2.89) but increased relative to the "During" phase for the Not Given group (M = 8.13, SE = 2.89). The interaction between Task and Information was not significant (F(1, 76) = 2.65, p = 0.107, ηp² = 0.034). Finally, the three-way interaction between Time, Task, and Information was not significant (F(1.80, 136.58) = 2.63, p = 0.082, ηp² = 0.033).
 
 
 ==================================================
 ANALYSIS FOR: total_duration_in_table_cover.pdf
 ==================================================
 
-**Total Duration in Table Cover**
+Okay, here is the report for the "Total Duration In Table Cover" based on the provided SPSS ANOVA output:
 
-The result revealed no significant main effect of Information (F(1, 76) = 1.37, p = 0.246, ηp² = 0.018). The type of task had no significant main effect on total duration in table cover (F(1, 76) = 2.06, p = 0.155, ηp² = 0.026). There was no significant interaction between Information and Task (F(1, 76) = 0.20, p = 0.655, ηp² = 0.003).
+For Total Duration In Table Cover, the analysis showed that the main effect of Information was not statistically significant (F(1, 76) = 1.37, p = 0.246, ηp² = 0.018). The main effect of Task was also not statistically significant (F(1, 76) = 2.06, p = 0.155, ηp² = 0.026). There was no significant interaction between Information and Task (F(1, 76) = 0.20, p = 0.655, ηp² = 0.003).
 
 
 ==================================================
 ANALYSIS FOR: total_duration_in_table_cover_across_time.pdf
 ==================================================
 
-Okay, here are the findings from the SPSS ANOVA output for Total Time Spent in Table/Cover, formatted as requested.
+Okay, I have reviewed the SPSS output for the ANOVA analysis on Total Duration in Table Cover. Here are the findings presented in text format:
 
-**Total Time Spent in Table/Cover**
-
-Upon analysis Mauchly's test indicated that the assumption of sphericity had been violated for the main effect of Time (χ²(2) = 27.49, p < 0.001), and consequently for interactions involving Time. Therefore, degrees of freedom were corrected using Greenhouse-Geisser estimates of sphericity (ε = 0.765) for the within-subjects effects. There was a significant main effect of time on the duration spent in table/cover (F(1.53, 116.31) = 11.40, p < 0.001, ηp² = 0.130). Time spent in table/cover was significantly lower Before the earthquake (M = 0.38, SE = 0.17) compared to During (M = 7.30, SE = 1.60; p < .001). Time spent After the earthquake (M = 2.35, SE = 1.00) was also significantly higher than Before (p < .001). Time spent During the earthquake was significantly higher than After the earthquake (p = .001). The main effect of Task was not statistically significant (F(1, 76) = 2.06, p = 0.155, ηp² = 0.026). The main effect of information given was also not significant (F(1, 76) = 1.37, p = 0.246, ηp² = 0.018). There was a significant interaction between Time and Information (F(1.53, 116.31) = 5.24, p = 0.012, ηp² = 0.064). Before the earthquake, cover time was similarly low whether information was given (M = 0.44, SE = 0.28) or not given (M = 0.32, SE = 0.41). During the earthquake, cover time increased substantially more for the Given group (M = 10.73, SE = 3.55) than the Not Given group (M = 3.88, SE = 2.60). After the earthquake, cover time decreased for both, but was numerically lower for the Given group (M = 1.08, SE = 0.34) compared to the Not Given group (M = 3.61, SE = 2.80). No significant interaction was found between time and Task (F(1.53, 116.31) = 1.78, p = 0.180, ηp² = 0.023). The interaction between Task and Information was not significant (F(1, 76) = 0.20, p = 0.655, ηp² = 0.003). Finally, the three-way interaction between time, Task, and Information was not significant (F(1.53, 116.31) = 0.35, p = 0.649, ηp² = 0.005).
+Upon analysis Mauchly's test indicated that the assumption of sphericity had been violated for the main effect of Time (χ²(2) = 27.494, p < 0.001), and consequently for interactions involving Time. Therefore, degrees of freedom were corrected using Greenhouse-Geisser estimates of sphericity (ε = 0.765) for the within-subjects effects. There was a significant main effect of Time on total duration in table cover (F(1.53, 116.31) = 11.40, p < 0.001, ηp² = 0.130). Total duration was lowest Before the earthquake (M = 0.38, SE = 0.17), significantly higher During (M = 7.30, SE = 1.60), and decreased After (M = 2.35, SE = 1.00). The main effect of Task was not statistically significant (F(1, 76) = 2.06, p = 0.155, ηp² = 0.026). The main effect of Information was also not statistically significant (F(1, 76) = 1.37, p = 0.246, ηp² = 0.018). No significant interaction was found between Time and Task (F(1.53, 116.31) = 1.78, p = 0.180, ηp² = 0.023). There was a significant interaction between Time and Information (F(1.53, 116.31) = 5.24, p = 0.012, ηp² = 0.064). Before the earthquake, duration was similarly low whether information was given (M=0.44, SE=0.20) or not given (M=0.32, SE=0.29). During the earthquake, duration increased substantially more for the Given group (M=10.73, SE=2.51) compared to the Not Given group (M=3.88, SE=1.84). After the earthquake, duration decreased for both groups, but was lower for the Given group (M=1.08, SE=0.24) than the Not Given group (M=3.61, SE=1.98). The interaction between Task and Information was not significant (F(1, 76) = 0.20, p = 0.655, ηp² = 0.003). Finally, the three-way interaction between Time, Task, and Information was not significant (F(1.53, 116.31) = 0.35, p = 0.649, ηp² = 0.005).
 
 
 ==================================================
 ANALYSIS FOR: total_seated_duration.pdf
 ==================================================
 
-Okay, here is the summary of the ANOVA findings for Total Seated Duration based on the provided SPSS output.
+Analysis of Total Time Spent Sitting revealed that Levene's test indicated that the assumption of equality of error variances was violated (F(3, 76) = 3.41, p = 0.022). However, given the equal sample sizes across groups and the robustness of ANOVA, the results are interpreted.
 
-**Total Time Spent Sitting**
+There was a significant main effect of Information (F(1, 76) = 9.07, p = 0.004, ηp² = 0.107), with participants given information showing higher total seated duration (M = 53.49, SE = 5.74) than those not given information (M = 29.05, SE = 5.74).
 
-Levene's test indicated that the assumption of homogeneity of variances was violated (p = .022). However, given the equal group sizes, the standard F-test results are reported.
-The results revealed a significant main effect of Information (F(1, 76) = 9.07, p = 0.004, ηp² = 0.107) with total seated duration significantly higher when information was given (M = 53.49, SE = 5.74) than when it was not given (M = 29.05, SE = 5.74).
-There was also a significant main effect of Task (F(1, 76) = 20.12, p < 0.001, ηp² = 0.209), with participants in the No Task condition (M = 59.47, SE = 5.74) showing higher total seated duration than those in the Book Task condition (M = 23.07, SE = 5.74).
-There was no significant interaction between Information and Task (F(1, 76) = 0.22, p = 0.639, ηp² = 0.003).
+There was also a significant main effect of Task (F(1, 76) = 20.12, p < 0.001, ηp² = 0.209), with participants in the No Task condition showing higher overall seated duration (M = 59.47, SE = 5.74) than those in the Book Task condition (M = 23.07, SE = 5.74).
+
+The interaction between Information and Task was not significant (F(1, 76) = 0.22, p = 0.639, ηp² = 0.003).
 
 
 ==================================================
 ANALYSIS FOR: total_seated_duration_across_time.pdf
 ==================================================
 
-Total Time Spent Sitting
+Okay, here is the interpretation of the ANOVA analysis for Total Seated Duration based on the provided SPSS output.
 
-Upon analysis Mauchly's test indicated that the assumption of sphericity had been violated for the main effect of Time (χ²(2) = 15.83, p = 0.000), and consequently for interactions involving Time. Therefore, degrees of freedom were corrected using Greenhouse-Geisser estimates of sphericity (ε = 0.840) for the within-subjects effects.
+**Total Time Spent Sitting**
 
-There was a significant main effect of time on total seated duration (F(1.68, 127.71) = 28.93, p < 0.001, ηp² = 0.276). Time spent sitting was significantly lower before the earthquake (M = 4.04, SE = 1.10) compared to during (M = 22.41, SE = 1.85; p < 0.001) and after (M = 14.83, SE = 2.59; p < 0.001). Time spent sitting during the earthquake was also significantly higher than after the earthquake (M = 22.41, SE = 1.85 vs M = 14.83, SE = 2.59; p = 0.028).
+Upon analysis, Mauchly's test indicated that the assumption of sphericity had been violated for the main effect of Time (χ²(2) = 15.825, p = 0.000), and consequently for interactions involving Time. Therefore, degrees of freedom were corrected using Greenhouse-Geisser estimates of sphericity (ε = 0.840) for the within-subjects effects.
 
-A significant main effect was found for Task (F(1, 76) = 20.12, p < 0.001, ηp² = 0.209), with participants in the No Task condition (M = 19.82, SE = 1.91) showing higher overall seated duration than those in the Book Task condition (M = 7.69, SE = 1.91).
+There was a significant main effect of time on total seated duration (F(1.680, 127.707) = 28.929, p < 0.001, ηp² = 0.276). Time spent sitting was significantly lower before the earthquake (M = 4.04, SE = 1.10) compared to during (M = 22.41, SE = 1.85; p < .001) and after (M = 14.83, SE = 2.59; p < .001). Time spent sitting during the earthquake was also significantly higher than after the earthquake (p = .028).
 
-There was also a significant main effect for information (F(1, 76) = 9.07, p = 0.004, ηp² = 0.107), with participants given information (M = 17.83, SE = 1.91) having a higher overall seated duration than those not given information (M = 9.69, SE = 1.91).
+A significant main effect was found for Task (F(1, 76) = 20.122, p < 0.001, ηp² = 0.209), with participants in the No Task condition (M = 19.82, SE = 1.91) showing higher overall seated duration than those in the Book Task condition (M = 7.69, SE = 1.91).
 
-There was a significant interaction between Time and Task (F(1.68, 127.71) = 5.43, p = 0.008, ηp² = 0.067). Before the earthquake, the sitting time was lower for the Book Task condition (M = 2.26, SE = 1.56) compared to the No Task condition (M = 5.82, SE = 1.56). During the earthquake, sitting time increased substantially more for the No Task group (M = 29.12, SE = 2.62) than the Book Task group (M = 15.69, SE = 2.62). After the earthquake, sitting time decreased for both, but remained substantially higher for the No Task group (M = 24.53, SE = 3.67) compared to the Book Task group (M = 5.13, SE = 3.67).
+There was also a significant main effect for Information (F(1, 76) = 9.068, p = 0.004, ηp² = 0.107), with participants given information (M = 17.83, SE = 1.91) having a higher overall seated duration than those not given information (M = 9.69, SE = 1.91).
 
-There was also a significant interaction between Time and Information (F(1.68, 127.71) = 14.57, p < 0.001, ηp² = 0.161). Before the earthquake, sitting duration was lower for the Given (M = 2.70, SE = 1.56) information group compared to the Not Given (M = 5.38, SE = 1.56) group. During the earthquake, duration increased drastically more for the Given group (M = 33.76, SE = 2.62) compared to the Not Given group (M = 11.05, SE = 2.62). After the earthquake, duration decreased for both groups but remained higher for the Given group (M = 17.03, SE = 3.67) than the Not Given group (M = 12.62, SE = 3.67).
+There was a significant interaction between Time and Task (F(1.680, 127.707) = 5.433, p = 0.008, ηp² = 0.067). Before the earthquake, the sitting time was relatively low for both Book Task (M = 2.26, SE = 1.56) and No Task (M = 5.82, SE = 1.56) groups. During the earthquake, sitting time increased substantially more for the No Task group (M = 29.12, SE = 2.62) than the Book Task group (M = 15.69, SE = 2.62). After the earthquake, sitting time decreased for both, but remained significantly higher for the No Task group (M = 24.53, SE = 3.67) compared to the Book Task group (M = 5.13, SE = 3.67).
 
-The interaction between Task and Information was not significant (F(1, 76) = 0.22, p = 0.639, ηp² = 0.003).
+There was also a significant interaction between Time and Information (F(1.680, 127.707) = 14.568, p < 0.001, ηp² = 0.161). Before the earthquake, sitting duration was low for both the Given (M = 2.70, SE = 1.56) and Not Given (M = 5.38, SE = 1.56) information groups. During the earthquake, duration increased drastically more for the Given group (M = 33.76, SE = 2.62) compared to the Not Given group (M = 11.05, SE = 2.62). After the earthquake, duration decreased for both groups but remained higher for the Given group (M = 17.03, SE = 3.67) than the Not Given group (M = 12.62, SE = 3.67).
 
-Finally, the three-way interaction between time, Task, and information was not significant (F(1.68, 127.71) = 0.91, p = 0.390, ηp² = 0.012).
+The interaction between Task and Information was not significant (F(1, 76) = 0.221, p = 0.639, ηp² = 0.003).
+
+Finally, the three-way interaction between Time, Task, and Information was not significant (F(1.680, 127.707) = 0.911, p = 0.390, ηp² = 0.012).
 
 
 ==================================================
 ANALYSIS FOR: total_time_near_corner.pdf
 ==================================================
 
-Okay, here is the textual description of the ANOVA findings for Total Time Near Corner based on the provided SPSS output.
+Here are the findings for the Total Time Spent Near Corner based on the provided ANOVA analysis:
 
 **Total Time Near Corner**
-
-The result revealed a significant main effect of Information (F(1, 76) = 4.13, p = 0.046, ηp² = 0.052) with total time spent near the corner significantly higher when information was given (M = 2.84, SE = 0.95) than when it was not given (M = 0.10, SE = 0.95). The type of task had no significant effect on total time near the corner (F(1, 76) = 3.46, p = 0.067, ηp² = 0.044). There was no significant interaction between information and task (F(1, 76) = 3.60, p = 0.062, ηp² = 0.045).
+The result revealed a significant main effect of Information (F(1, 76) = 4.13, p = 0.046, ηp² = 0.05) with Total Time Near Corner significantly higher when information was given (M = 2.84, SE = 0.95) than when it was not given (M = 0.10, SE = 0.95). The type of task had no significant effect on Total Time Near Corner (F(1, 76) = 3.46, p = 0.067, ηp² = 0.04). There was no significant interaction between Information and Task (F(1, 76) = 3.60, p = 0.062, ηp² = 0.05).
 
 
 ==================================================
 ANALYSIS FOR: total_time_near_wall.pdf
 ==================================================
 
-Okay, here is the summary of the ANOVA results for Total Time Near Wall based on the provided SPSS output.
+Okay, here is the interpretation of the ANOVA results for Total Time Spent Near Wall, formatted as requested.
 
-**Total Time Near Wall**
+**Total Time Spent Near Wall**
 
-Upon analysis, Levene's Test for Equality of Error Variances was significant (p < .05), indicating that the assumption of homogeneity of variances was violated.
-
-The analysis revealed a significant main effect of Information (F(1, 76) = 4.61, p = 0.035, ηp² = 0.057). Time spent near the wall was significantly higher when Information was Given (M = 33.4, SE = 5.0) compared to when it was Not Given (M = 18.2, SE = 5.0).
-
-A significant main effect was also found for Task (F(1, 76) = 5.64, p = 0.020, ηp² = 0.069). Participants in the No Task condition (M = 34.2, SE = 5.0) spent significantly more time near the wall than those in the Book Task condition (M = 17.4, SE = 5.0).
-
-There was no significant interaction between Information and Task (F(1, 76) = 2.65, p = 0.107, ηp² = 0.034).
+The result revealed a significant main effect of Information (F(1, 76) = 4.61, p = 0.035, ηp² = 0.057) with Total Time Spent Near Wall significantly higher when information was Given (M = 33.40, SE = 5.01) than when it was Not Given (M = 18.21, SE = 5.01). A significant main effect of Task was also found (F(1, 76) = 5.64, p = 0.020, ηp² = 0.069), with participants in the No Task condition (M = 34.21, SE = 5.01) spending significantly more Total Time Spent Near Wall than those in the Book Task condition (M = 17.40, SE = 5.01). There was no significant interaction between Information and Task (F(1, 76) = 2.65, p = 0.107, ηp² = 0.034).
